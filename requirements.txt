@@ -1,0 +1,33 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Data Science & Machine Learning
+pandas
+numpy
+scikit-learn
+
+# Image Processing
+Pillow
+opencv-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Additional dependencies that might be needed
+scipy
+jupyter
+ipython
+tqdm
+
+# For CUDA support (optional, install appropriate version)
+# torch==2.0.0+cu118
+# torchvision==0.15.0+cu118
+# torchaudio==2.0.0+cu118
+
+# Korean Font Support
+# For Korean fonts, you may need to install fonts separately:
+# - Windows: Usually has Malgun Gothic pre-installed
+# - Mac/Linux: Install NanumGothic or other Korean fonts
